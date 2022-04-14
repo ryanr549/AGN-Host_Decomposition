@@ -1,0 +1,7 @@
+3D-HST/SCI_image/*
+3D-HST/PSF_image/
+3D-HST/ACS_exp_map/
+archival_data/dataset_all/
+archival_data/PSF/
+.ipynb_checkpoints/
+.virtual_documents/
